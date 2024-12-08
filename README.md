@@ -4,7 +4,7 @@ Analyze and visualize e-commerce data to extract meaningful insights through dat
 
 # Table of Contents
 
-- [Project Overview](#Project-Overview)
+- [Project Overview](#Project-Highlights)
 - [Sources](#Sources)
 
 # Project Highlights
