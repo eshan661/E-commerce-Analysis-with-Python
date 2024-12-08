@@ -14,7 +14,7 @@ Analyze and visualize e-commerce data to extract meaningful insights through dat
 
 #### Data Manipulation: Aggregated and transformed data for meaningful analysis.
 
-#### Data Visualization: Used plots to showcase trends and patterns effectively.
+#### Data Visualization: Used Graphs to showcase trends and patterns effectively.
 # Technologies Used
 
 Python: Core programming language.
